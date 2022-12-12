@@ -24,7 +24,7 @@ Player B is working with an arsenal of four pitches. His go-to pitch is a 93.5 M
 
 
 ## Recommendation
-Based on the information I prodided in this analysis I would say Player A has the better weapons in his pitching arsenal over Player B. For example, both players have similar four-seam fastballs in terms of velocity, but Player A has a higher spin rate and more break. For how much Player B utilizes the fastball at nearly 50% utilization, it would need to be more effective in terms of spin rate and break.
+Based on the information I provided in this analysis I would say Player A has the better weapons in his pitching arsenal over Player B. For example, both players have similar four-seam fastballs in terms of velocity, but Player A has a higher spin rate and more break. For how much Player B utilizes the fastball at nearly 50% utilization, it would need to be more effective in terms of spin rate and break.
 
 
 Additional analysis options to include:
